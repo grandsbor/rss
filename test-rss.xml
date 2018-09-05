@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
-<title>Title of Podcast</title>
-<link>http://www.example.com/<link>
-<language>en-us</language>
-<itunes:subtitle>Subtitle of podcast</itunes:subtitle>
-<itunes:author>Author Name</itunes:author>
-<itunes:summary>Description of podcast.</itunes:summary>
-<description>Description of podcast.</description>
-<itunes:owner>
-<itunes:name>Owner Name</itunes:name>
-<itunes:email>me@example.com</itunes:email>
-</itunes:owner>
-<itunes:explicit>no</itunes:explicit>
-<itunes:image href="http://www.example.com/podcast-icon.jpg" />
-<itunes:category text="Category Name"/></itunes:category>
+<title>Открытая библиотека. Диалоги</title>
+<link>http://open-lib.ru/<link>
+<language>ru-ru</language>
+<itunes:author>Открытая библиотека</itunes:author>
+<itunes:summary>Общественно-культурные дискуссии в формате диалогов</itunes:summary>
+<description>Изначально мы считали свой целью переустройство городских общедоступных библиотек, расширение формата их работы. Сегодня ОБ устраивает дискуссии, участие в которых принимают лучшие русскоязычные спикеры.
 
-<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
-<item>
-<title>Title of Podcast Episode</title>
-<itunes:summary>Description of podcast episode content</itunes:summary>
-<description>Description of podcast episode content</description>
-<link>http://example.com/podcast-1</link>
-<enclosure url="http://example.com/podcast-1/podcast.mp3" type="audio/mpeg" length="1024"></enclosure>
-<pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
-<itunes:author>Author Name</itunes:author>
-<itunes:duration>00:32:16</itunes:duration>
+Мы рады самым разным участникам и гостям вне зависимости от их возраста, образования и мировоззрения. 
+
+Вход на все мероприятия ОБ всегда свободен.</description>
 <itunes:explicit>no</itunes:explicit>
-<guid>http://example.com/podcast-1</guid>
+<itunes:image href="https://uploads-ssl.webflow.com/58766c674659e66627896b38/5876e3b5e3fbefe451e0558d_openlib.png" />
+<itunes:category text="Society &amp; Culture"/></itunes:category>
+
+<item>
+<title>s05e22. Эволюция человека (Людмила Улицкая — Александр Сокуров)</title>
+<link>http://open-lib.ru/dialogues/ulitskayasokurov</link>
+<enclosure url="https://archive.org/download/openlib-s05-e22/s05e22-sokurov-ulitskaya-64k.mp3" type="audio/mpeg" length="29268889"/>
+<pubDate>Sat, 25 Aug 2018 16:00:00 +0000</pubDate>
+<itunes:duration>01:00:58</itunes:duration>
+<guid>s05e22</guid>
 </item> 
-<!--END REPEAT--> 
 
 </channel>
 </rss>
