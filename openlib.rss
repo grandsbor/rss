@@ -10,7 +10,9 @@
 
 Мы рады самым разным участникам и гостям вне зависимости от их возраста, образования и мировоззрения. 
 
-Вход на все мероприятия ОБ всегда свободен.</description>
+Вход на все мероприятия ОБ всегда свободен.
+
+Подкаст неофициальный, аудиодорожки взяты из видеозаписей на YouTube.</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://uploads-ssl.webflow.com/58766c674659e66627896b38/5876e3b5e3fbefe451e0558d_openlib.png" />
 <itunes:category text="Society &amp; Culture"/>
@@ -19,7 +21,7 @@
 <title>s05e24. Рим (Виктор Сонькин — Ольга Гринкруг)</title>
 <link>http://open-lib.ru/dialogues/sonkingrinkrug</link>
 <enclosure url="https://archive.org/download/openlib-s05-e24/s05e24-sonkin-grinkrug-64k.mp3" type="audio/mpeg" length="24378976"/>
-<pubDate>Sat, 25 Aug 2018 16:00:00 +0000</pubDate>
+<pubDate>Sat, 25 Aug 2018 18:00:00 +0000</pubDate>
 <itunes:duration>00:50:47</itunes:duration>
 <guid>s05e24</guid>
 </item>
@@ -37,9 +39,27 @@
 <title>s05e22. Эволюция человека (Людмила Улицкая — Александр Сокуров)</title>
 <link>http://open-lib.ru/dialogues/ulitskayasokurov</link>
 <enclosure url="https://archive.org/download/openlib-s05-e22/s05e22-sokurov-ulitskaya-64k.mp3" type="audio/mpeg" length="29268889"/>
-<pubDate>Sat, 25 Aug 2018 16:00:00 +0000</pubDate>
+<pubDate>Sat, 25 Aug 2018 14:00:00 +0000</pubDate>
 <itunes:duration>01:00:58</itunes:duration>
 <guid>s05e22</guid>
+</item>
+
+<item>
+<title>s01e02. Возможен ли компромисс в журналистике? (Галина Тимченко — Алексей Венедиктов)</title>
+<link>http://open-lib.ru/dialogues/venediktovtimchenko</link>
+<enclosure url="https://archive.org/download/openlib-s01-e01-05/s01e02-timchenko-venediktov-64k.mp3" type="audio/mpeg" length="27261222"/>
+<pubDate>Sat, 26 Apr 2014 14:00:00 +0000</pubDate>
+<itunes:duration>00:56:47</itunes:duration>
+<guid>s01e02</guid>
+</item>
+
+<item>
+<title>s01e01. Возможность острова в современной России (Евгения Альбац — Катерина Гордеева)</title>
+<link>http://open-lib.ru/dialogues/albatsgordeeva</link>
+<enclosure url="https://archive.org/download/openlib-s01-e01-05/s01e01-albats-gordeeva-64k.mp3" type="audio/mpeg" length="32525836"/>
+<pubDate>Sat, 26 Apr 2014 12:00:00 +0000</pubDate>
+<itunes:duration>01:07:45</itunes:duration>
+<guid>s01e01</guid>
 </item>
 
 </channel>
