@@ -18,6 +18,24 @@
 <itunes:category text="Society &amp; Culture"/>
 
 <item>
+<title>s05e27. Правила жизни (Антон Долин — Юрий Сапрыкин)</title>
+<link>http://open-lib.ru/dialogues/dolinsaprykin</link>
+<enclosure url="https://archive.org/download/S05e25-27/s05e27-dolin-saprykin-64k.mp3" type="audio/mpeg" length="34986989"/>
+<pubDate>Sat, 29 Sep 2018 18:00:00 +0000</pubDate>
+<itunes:duration>01:12:53</itunes:duration>
+<guid>s05e27</guid>
+</item>
+
+<item>
+<title>s05e25. Профессия — репортёр. Джемаль (Василий Полонский — Тимур Олевский)</title>
+<link>http://open-lib.ru/dialogues/albatsolevsky</link>
+<enclosure url="https://archive.org/download/S05e25-27/s05e25-polonsky-olevsky-64k.mp3" type="audio/mpeg" length="26465010"/>
+<pubDate>Sat, 29 Sep 2018 14:00:00 +0000</pubDate>
+<itunes:duration>00:55:08</itunes:duration>
+<guid>s05e25</guid>
+</item>
+
+<item>
 <title>s05e24. Рим (Виктор Сонькин — Ольга Гринкруг)</title>
 <link>http://open-lib.ru/dialogues/sonkingrinkrug</link>
 <enclosure url="https://archive.org/download/openlib-s05-e24/s05e24-sonkin-grinkrug-64k.mp3" type="audio/mpeg" length="24378976"/>
@@ -42,6 +60,24 @@
 <pubDate>Sat, 25 Aug 2018 14:00:00 +0000</pubDate>
 <itunes:duration>01:00:58</itunes:duration>
 <guid>s05e22</guid>
+</item>
+
+<item>
+<title>s02e02. Судьба государственных и независимых СМИ в России (Юлия Мучник — Светлана Миронюк)</title>
+<link>http://open-lib.ru/dialogues/muchnikmiron</link>
+<enclosure url="https://archive.org/download/openlib-s02-e01-09/s02e02-muchnik-mironyuk-64k.mp3" type="audio/mpeg" length="36696233"/>
+<pubDate>Sat, 31 Jan 2015 17:00:00 +0000</pubDate>
+<itunes:duration>01:16:26</itunes:duration>
+<guid>s02e02</guid>
+</item>
+
+<item>
+<title>s02e01. Новая экономическая реальность (Константин Сонин — Дмитрий Бутрин)</title>
+<link>http://open-lib.ru/dialogues/soninbutrin</link>
+<enclosure url="https://archive.org/download/openlib-s02-e01-09/s02e01-sonin-butrin-64k.mp3" type="audio/mpeg" length="35533470"/>
+<pubDate>Sat, 31 Jan 2015 15:00:00 +0000</pubDate>
+<itunes:duration>01:14:01</itunes:duration>
+<guid>s02e01</guid>
 </item>
 
 <item>
